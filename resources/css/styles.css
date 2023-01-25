@@ -1,0 +1,23 @@
+.text{
+    margin: 0 auto;
+    background-color: black;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 0px 10px 0px;
+    width: 300px;
+}
+
+.container div p{
+    margin: 0px;
+    font-size: 16px;
+}
+
+.container div p i{
+    color:steelblue;
+}
+
+.button{
+    margin: 10px auto 0px auto;
+    width: 67px;
+}
